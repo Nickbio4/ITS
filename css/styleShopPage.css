@@ -1,0 +1,16 @@
+/* RESET CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 250px;
+}
+
+.container-table {
+    width: 75%;
+    display: flex;
+    
+}
