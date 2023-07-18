@@ -50,10 +50,14 @@
                 </div>
             </div>
 
+            <div class="container">
+                <h2>CUSTOMERS</h2>
+                <?php include "./getAllClients.php"; ?>
+            </div>
 
             <div class="container">
                 <h2>TABLE FOR ALL PRODUCT</h2>
-                <?php include "./getAllProducts2.php"; ?>
+                <?php include "./getAllProducts.php"; ?>
             </div>
 
             <!-- FOOTER -->
