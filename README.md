@@ -9,4 +9,6 @@ extension you need in a new VS studio enviroments:
     - PHP Intelephense
     - Prettier(optional but try)
 
+Git command yu could find interesting ;)
 
+    clone a repo => git clone <repo URL>
